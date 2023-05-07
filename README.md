@@ -14,6 +14,7 @@ This challenge was inspired by the [advent of cyber 2022](https://tryhackme.com/
 As I found out on the day of the CTF there were actually two ways to get the flag.
 
 ### What people did
+---
 
 The flag was not obfuscated in the web assembly code, so it was possible to just search for the flag in its strings. So what you needed to do was:
 
@@ -25,6 +26,7 @@ The flag was not obfuscated in the web assembly code, so it was possible to just
 ![method_1](./img/img1.png)
 
 ### The inteded method
+---
 
 The intended method was to use the `Cetus` extention to look into the memory of the web assembly program.
 
