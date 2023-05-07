@@ -1,0 +1,1 @@
+To deploy, run a python server in this directory by running the following command in a terminal ```python -m http.server```. Then go to a web browser and type in `localhost:8000` (8000 being the default port for the python server)
